@@ -1,8 +1,8 @@
 <template>
     <article class="intro-text">
-        <p class="intro-hello">Hi, mein Name ist Max Mustermann.</p>
-        <h1>Ich bin ein Front-End Developer<br>& UI/UX Designer.</h1>
-        <p class="content">Aktuell studieren ich in Berlin B.Sc. Informatik und arbeite nebenher an meinem Start-Up zusammen mit einigen Freunden.</p>
+        <p class="intro-hello">My name is Mahatir Said.</p>
+        <h1>I'm a SharePoint Consultant<br>& FullStack Developer.</h1>
+        <p class="content">Currently, I work at Camdere Consulting.</p>
     <SocialNetworks />
     </article>
 

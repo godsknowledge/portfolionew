@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <p>{{ currentYear }} Copyright by Max Mustermann. Create with Vue.</p>
+        <p>{{ currentYear }} Copyright by Mahatir Said. Created with Vue.</p>
     </footer>
 </template>
 
